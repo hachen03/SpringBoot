@@ -1,0 +1,1 @@
+利用ApplicationContext.xml使用了多種不同Bean的應用，依賴注入(建構子注入setter注入)等
